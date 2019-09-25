@@ -44,7 +44,7 @@ public class Solution {
     }
 
 
-
+// This is hacker rank auto generated methods.
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
